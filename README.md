@@ -13,7 +13,7 @@ HTML is the standard markup language for creating Web pages.
 - Create your base folder structure (css,images, js)
 
 ## Live Link
-- https://nateb228.github.io/html/index.html
+- https://github.com/KhanyisoHaman
 
 ## Prevalent Technologies Used
 
