@@ -3,7 +3,7 @@ The Legend of Legends
 
 # Intro To HTML
 
-HTML, an Introduction to it's make up...
+HTML, stands Hpyertext markup language
 
 HTML is the standard markup language for creating Web pages.
 
@@ -11,6 +11,7 @@ HTML is the standard markup language for creating Web pages.
 
 - Open your terminal and launch the command
 - Create your base folder structure (css,images, js)
+- names must be in lowwercase
 
 ## Live Link
 - https://github.com/KhanyisoHaman
@@ -55,4 +56,4 @@ Tools:
 
 ## Contributors
 
-Nate to the D O and double G - 2018
+KhanyisoHaman aka Dr. West- 2018
